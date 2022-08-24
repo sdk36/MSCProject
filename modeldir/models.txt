@@ -1,0 +1,7 @@
+['D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\04090263\\7fb2ec71361813bfcec05e03e317cbf8\\models\\model_normalized.solid.binvox'
+ 'D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\04090263\\587cee5495322f18cf1584c5b09d332\\models\\model_normalized.solid.binvox'
+ 'D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\04090263\\e534d084d3bc37184d0af51460733e47\\models\\model_normalized.solid.binvox'
+ ...
+ 'D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\03001627\\865551d21a4b2c09ad484915511ccff6\\models\\model_normalized.solid.binvox'
+ 'D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\03001627\\c70c1a6a0e795669f51f77a6d7299806\\models\\model_normalized.solid.binvox'
+ 'D:\\ShapeNetCore.v2\\ShapeNetCore.v2\\03001627\\2f24021efe2ccfcc2db431502a680805\\models\\model_normalized.solid.binvox']
